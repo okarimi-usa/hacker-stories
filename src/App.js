@@ -195,4 +195,3 @@ class Toggle extends React.Component {
     );
   }
 } */
-
