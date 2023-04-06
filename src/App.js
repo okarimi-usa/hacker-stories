@@ -13,7 +13,7 @@ export default class App extends React.Component {
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
-          {/* Children of FormInput component are passed as prop */}
+          {/* Children of FormInput component are passed as prop. Added by Omid */}
           <FilterableList> 
             <p>This <i>p</i> children needs to be called inside its component to be displayed.</p>
           </FilterableList>
