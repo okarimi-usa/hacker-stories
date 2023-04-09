@@ -171,6 +171,7 @@ class Toggle extends React.Component {
     });
   }
 
+  
   render() {
     return (
       <form>
